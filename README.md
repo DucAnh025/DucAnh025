@@ -1,14 +1,20 @@
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif)
 ## 👋 About Me
 
 <img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="350px" style="margin-left: 30px;">
 
-I started programming in 7th grade with a basic Arduino-powered robotic arm, sparking my passion for code and problem-solving. 
+I started programming in 7th grade with a basic Arduino-powered   
+robotic arm, sparking my passion for code and problem-solving.   
 
-Since then, I’ve focused on writing efficient, scalable software, from low-level systems to AI applications and backend development. 
+Since then, I’ve focused on writing efficient, scalable software, 
+from low-level systems to AI applications and backend development.     
 
-To me, great software is more than code—it’s about clarity, efficiency, and impact. I thrive on challenges that push boundaries and turn ideas into reality.
+To me, great software is more than code—it’s about clarity, efficiency, and impact.    
+I thrive on challenges that push boundaries and turn ideas into reality. 
+
 
 **Let’s build something amazing together! 🚀**
+
 
 
 
