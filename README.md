@@ -1,16 +1,12 @@
 ## 👋 About Me
 
-<img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="450px" style="margin-left: 30px;">
+<img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="350px" style="margin-left: 30px;">
 
-I began programming in 7th grade, building a simple robotic     
-arm with Arduino and C. That project ignited my passion for   
-coding, logic, and problem-solving, leading me to explore the  
-vast field of software development.
+I started programming in 7th grade with a basic Arduino-powered robotic arm, sparking my passion for code and problem-solving. 
 
-Since then, I’ve been driven by the pursuit of writing efficient  
-, scalable, and impactful code. Whether working on low-level
- systems, AI applications, or backend development, I prioritize both functionality and performance optimization.
-To me, great software isn’t just about writing code—it’s about clarity, efficiency, and real-world impact. I embrace challenges that push boundaries, turning ideas into well-structured, high-quality solutions.
+Since then, I’ve focused on writing efficient, scalable software, from low-level systems to AI applications and backend development. 
+
+To me, great software is more than code—it’s about clarity, efficiency, and impact. I thrive on challenges that push boundaries and turn ideas into reality.
 
 **Let’s build something amazing together! 🚀**
 
